@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top{
+    height: 70px;
+    width: 100%;
+    background-color:   white
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0px 5px 10px 5px rgb(193, 190, 190);
+    font-weight: bolder;
+    font-size: xx-large;
+    
+}
+.top1{
+    color: rgb(21, 155, 238);
+}
+.task{
+    padding-left: 90px;
+    padding-top: 15px;
+}
+.button{
+    margin-top: 30px;
+    margin-left: 80%;
+    display: flex;
+    text-decoration: none;
+    
+}
+.plus{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    padding-left: 13px;
+    padding-top:6px;
+    font-weight: bolder;
+    font-size: x-large;
+    background-color: rgb(21, 155, 238);
+    text-decoration: none;
+    color:   white
+}
+.plus1{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(70, 69, 69);
+    text-decoration : none;
+    padding-left: 5px;
+    padding-top: 8px;
+    font-size: large;
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.bobx{
+    text-decoration: none;
+    color:   #00A5EC;
+}
+.box{
+    height: 300px;
+    width: 400px;
+    font-family: 'Roboto', sans-serif;
+    background-color:   white
+    margin-top: 100px;
+    border-radius: 20px;
+    border: 0.3px rgb(171, 164, 164) solid;
+}
+.box:hover{
+    box-shadow: 0px 0px 10px 0px gray ;
+}
+h2{
+    color:   #00A5EC;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.check1{
+    padding-left: 30px;
+    text-decoration: line-through;
+    color: gray;
+    padding-top: 30px;
+}
+.check2{
+    padding-left: 30px;
+    padding-top: 10px;
+    color: rgb(70, 69, 69);
+    padding-top: 20px;
+}
+.box6{
+    height:300px ;
+    width: 400px;
+    background-color:   white
+    border: 0px;
+}
+.box6:hover{
+    box-shadow: 0px 0px 0px 0px white;
+    
+}
+.parent2{
+    filter: blur(8px) ;
+    height: 100vh;
+   
+}
+.addtask{
+    z-index: 999;
+    height: 230px;
+    width: 450px;
+    background-color:   white
+    border: 0.1px solid rgb(206, 200, 200);
+    position: relative;
+    left: 35%;
+    bottom: 550px;
+    border-radius: 30px;
+}
+.ant{
+    font-family: 'Roboto', sans-serif;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: larger;
+    color:   #404040;
+    font-weight: bold;
+}
+.cross{
+    padding-left: 260px;
+    color:   #404040;
+}
+#text{
+    padding: 10px 195px 10px 35px;
+    border: 2px gray;
+    background-color: rgb(247, 246, 246);
+    border-radius: 5px;
+}
+.tex{
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.sidebutton{
+    background-color:   #00A5EC;
+    color:   white
+    border: 0.1px white;
+    padding: 10px 35px 10px 25px;
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.tex2{
+    padding-left: 65%;
+}
+.box11{
+    position: relative;
+    left: 38%;
+}
+.up{
+    margin-top: 50px;
+    text-align: center;
+}
+.le{
+    margin-left: 45px;
+    
+}
+.let{
+    background-color:  white
+    color: gray;
+}
+.plu{
+    padding: 0px 10px 15px 0px;
+}
+ 
